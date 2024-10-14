@@ -1,5 +1,5 @@
 # `jaProjCopy`
-<!-- Ana is still a nerd. A beautiful, wonderful, lovely nerd. 🤓 💕 🥰-->
+
 ## Database Schema Design
 
 ![db-schema]
